@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "dependencies": {
+    "discord.js": "^11.4.1",
+    "fortnite": "^4.1.1",
+    "request": "^2.88.0",
+    "snekfetch": "file:node_modules/snekfetch"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
