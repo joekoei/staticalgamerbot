@@ -4,3 +4,8 @@ const config = require("../botconfig.json");
 module.exports.run => {
 
 }
+
+
+module.exports.help = {
+    name: "ping"
+}
